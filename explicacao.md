@@ -1,0 +1,4 @@
+Esse projeto foi desenvolvido durante os cursos de lógica de programção com javascript da alura.
+O jogo do número secreto se trata de uma página que gera um número aleatório e você deve tentar acertar ele baseado nas dicas que o programa dá conforme você faz as tentativas.
+Ao inserir um número, se ele não for o número secreto, a página dirá se o número secreto é um número maior ou menor em relação a aquele que você chutou, com base nisso você pode fazer uma nova tentativa.
+Ao acertar o número a página dirá a quantidade de tentativas até acertar o número, e o botão de novo jogo é habilitado. A parte interessante é que o número secreto não vai se repetir dentro de uma série de 10 jogos, já que foi utilizado uma lista para armazenar os números que já foram sorteados, após os números esgotarem a lista é esvaziada e todos os números podem ser sorteados novamente.
